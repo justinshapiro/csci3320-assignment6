@@ -1,0 +1,24 @@
+<resources>
+    <string name="row1_col1">AC</string>
+    <string name="row1_col2">±</string>
+    <string name="row1_col3">%</string>
+    <string name="row1_col4">÷</string>
+    <string name="row2_col1">7</string>
+    <string name="row2_col2">8</string>
+    <string name="row2_col3">9</string>
+    <string name="row2_col4">×</string>
+    <string name="row3_col1">4</string>
+    <string name="row3_col2">5</string>
+    <string name="row3_col3">6</string>
+    <string name="row3_col4">−</string>
+    <string name="row4_col1">1</string>
+    <string name="row4_col2">2</string>
+    <string name="row4_col3">3</string>
+    <string name="row4_col4">+</string>
+    <string name="row5_col1">0</string>
+    <string name="row5_col3">.</string>
+    <string name="row5_col4">=</string>
+
+    <string name="exit_button">Exit</string>
+
+</resources>
